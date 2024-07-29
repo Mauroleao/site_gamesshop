@@ -92,6 +92,7 @@ section p {
 
 .social-links li a {
     text-decoration: none;
+    margin: 8px;
 }
 
 #contact .container {
